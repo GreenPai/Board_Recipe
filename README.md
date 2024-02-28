@@ -76,16 +76,16 @@ foreign key (board_id) references board_table (id) on delete cascade
 );
 ```
 
-## 파일 첨부 기능
 
-### 파일 추가
+# 파일 추가
 ![img_3.png](img_3.png)
-
-### 글목록
+<br><br>
+# 글목록
 ![img_4.png](img_4.png)
-
-### 추가된 파일
+<br><br>
+# 추가된 파일
 ![img_5.png](img_5.png)
-
-### 댓글 기능
+<br><br>
+# 댓글 기능
 ![img_6.png](img_6.png)
+<br><br>
